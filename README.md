@@ -1,5 +1,5 @@
 <h2>Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2> 
-I'm an <em> aspiring web developer </em>
+I'm an <em> aspiring full stack web developer </em>
 <br>
 
 <h2>About me</h2>
