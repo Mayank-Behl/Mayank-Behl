@@ -1,4 +1,3 @@
-# mayankbehl
 <h2>Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2> 
 I'm an <em> aspiring web developer </em>
 <br>
