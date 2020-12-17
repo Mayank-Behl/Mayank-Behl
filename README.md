@@ -1,10 +1,10 @@
 <h2>Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2> 
-I'm an <em> aspiring full stack web developer </em>
+I'm an <em> aspiring full stack developer </em>
 <br>
 
 <h2>About me</h2>
 <p> I am very much interested in full stack developmet.</p>
-<p> Trying out new things and taking on various front-end projects at the moment.</p>
+<p> Trying out new things and taking on various projects at the moment.</p>
 
 <h2>Currently using</h2>
 <p >
